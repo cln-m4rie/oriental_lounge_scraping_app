@@ -6,7 +6,7 @@
 
 - python3.7 (BeautifulSoup)
 - GCP (Cloud Funtions, Pub/Sub, Cloud Scheduler, Cloud Storage)
-- terraform
+- terraform 0.12.3
 
 ## どうやっているか
 
