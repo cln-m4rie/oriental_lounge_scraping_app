@@ -2,7 +2,8 @@
 
 .env
 
-terraform/gcp/credentials.json
+*.tfvars
+terraform/gcp/asia-northeast1/credentials.json
 terraform/gcp/.terraform
 src.zip
 # Local .terraform directories

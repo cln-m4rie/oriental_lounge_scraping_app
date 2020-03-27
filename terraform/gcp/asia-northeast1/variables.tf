@@ -1,20 +1,19 @@
 variable "project_name" {
-  default = "<your-project-name>"
+  default = ""
 }
 
 variable "credential" {
   default = {
-    data = "<your-credential-json>"
+    data = "credentials.json"
   }
 }
 
 variable "webhook" {
   default = {
-    url = "<your-slack-webhook-url>"
+    url = ""
   }
 }
 
 variable "region_name" {
   default = "asia-northeast1"
 }
-
