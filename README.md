@@ -15,4 +15,4 @@
 
 ## やり方
 
-terraform の設定をして `terraform/gcp/variables.tf` の値を変えて実行するだけ
+terraform の設定をして `terraform/gcp/asia-northeast1/variables.tf` の値を変えて実行するだけ
