@@ -1,4 +1,4 @@
-import json
+import datetime
 import traceback
 from typing import List, Optional
 
@@ -6,7 +6,6 @@ import bs4
 import requests
 import slackweb
 from environs import Env
-import datetime
 
 env = Env()
 
